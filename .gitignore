@@ -2,3 +2,8 @@ node_modules
 src/style.css
 .idea/
 .env
+/.firebaserc
+/firebase.json
+/firebase-debug.log
+/.firebase/
+dist/
